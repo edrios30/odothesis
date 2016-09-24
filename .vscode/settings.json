@@ -1,0 +1,22 @@
+// Coloque su configuración en este archivo para sobrescribir la configuración predeterminada y de usuario.
+{
+    "files.exclude": {
+        "vendor/": true,
+        "tests/": true,
+        "storage/": true,
+        "config/": true,
+        "bootstrap/": true,
+        "resources/assets": true,
+        "resources/lang": true,
+        "app/Console": true,
+        "app/Exceptions": true,
+        "app/Providers": true,
+        ".gitattributes": true,
+        "artisan": true,
+        "composer.lock": true,
+        "gulpfile.js": true,
+        "phpunit.xml": true,
+        "readme.md": true,
+        "server.php": true,
+    }
+}
